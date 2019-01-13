@@ -1,4 +1,25 @@
 var programDB = {
+   "North Colorado Medical Center Program/Sunrise Program":{
+      "longitude":"-104.7086111",
+      "state":"CO",
+      "city":"Greeley",
+      "latitude":"40.4233333",
+      "acgme":"1200711074"
+   },
+   "Swedish Medical Center/First Hill Program/Downtown":{
+      "longitude":"-122.3308333",
+      "state":"WA",
+      "city":"Seattle",
+      "latitude":"47.6063889",
+      "acgme":"4405432347"
+   },
+   "Swedish Medical Center/First Hill Program/Ballard":{
+      "longitude":"-122.3308333",
+      "state":"WA",
+      "city":"Seattle",
+      "latitude":"47.6063889",
+      "acgme":"4405432347"
+   },
    "University of California (San Francisco)/Fresno Program":{
       "longitude":"-119.7713889",
       "state":"CA",
